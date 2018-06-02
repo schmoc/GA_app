@@ -1,0 +1,71 @@
+{
+  "BACK_BUTTON_TEXT": "Back",
+
+  "NAME": "Name",
+  "EMAIL": "Email",
+  "USERNAME": "Username",
+  "PASSWORD": "Password",
+  "LOGIN": "Sign in",
+  "SIGNUP": "Create a new account",
+
+  "TAB1_TITLE": "Home",
+  "TAB2_TITLE": "Passengers",
+  "TAB3_TITLE": "Tracking",
+  "TAB4_TITLE": "Settings",
+
+  "MAP_TITLE": "Map",
+
+  "TUTORIAL_SKIP_BUTTON": "Skip",
+  "TUTORIAL_CONTINUE_BUTTON": "Continue",
+
+  "TUTORIAL_SLIDE1_TITLE": "Welcome to Guardian Angel",
+  "TUTORIAL_SLIDE1_DESCRIPTION": "The <b>Guardian Angel</b> app will be your new personal car assistant.",
+  "TUTORIAL_SLIDE2_TITLE": "Security",
+  "TUTORIAL_SLIDE2_DESCRIPTION": "It will keep your car <b>secured</b>.",
+
+  "TUTORIAL_SLIDE3_TITLE": "Real time location",
+  "TUTORIAL_SLIDE3_DESCRIPTION": "If your car isnt secured go ahead and check your car's <b>location</b> with accuracy.",
+
+  "TUTORIAL_SLIDE4_TITLE": "Lets get started!",
+  "TUTORIAL_SLIDE4_DESCRIPTION": "",
+
+  "WELCOME_INTRO": "Create an account or sign in.",
+
+  "SETTINGS_TITLE": "Tracking",
+  "SETTINGS_OPTION1": "Option 1",
+  "SETTINGS_OPTION2": "Show my location on Google Maps",
+  "SETTINGS_OPTION3": "Option 3",
+  "SETTINGS_OPTION4": "Option 4",
+
+  "SETTINGS_PROFILE_BUTTON": "Show my location on Google Maps",
+
+  "SETTINGS_PAGE_PROFILE": "Your Location",
+
+  "WELCOME_TITLE": "Welcome",
+
+  "LOGIN_TITLE": "Sign in",
+  "LOGIN_ERROR": "Unable to sign in. Please check your account information and try again.",
+  "LOGIN_BUTTON": "Sign in",
+  "SIGNUP_TITLE": "Create an acount",
+  "SIGNUP_ERROR": "Unable to create account. Please check your account information and try again.",
+  "SIGNUP_BUTTON": "Create an acount",
+
+  "LIST_MASTER_TITLE": "Usual Passengers",
+
+  "ITEM_CREATE_TITLE": "New Passenger",
+  "ITEM_CREATE_CHOOSE_IMAGE": "Add Image",
+
+  "ITEM_NAME_PLACEHOLDER": "Name",
+  "ITEM_DISEASE_PLACEHOLDER": "Diseases",
+  "ITEM_BloodT_PLACEHOLDER": "Blood Type",
+  "ITEM_Age_PLACEHOLDER": "Age",
+
+  "DONE_BUTTON": "Done",
+  "CANCEL_BUTTON": "Cancel",
+  "DELETE_BUTTON": "Delete",
+
+  "CARDS_TITLE": "Social",
+
+  "SEARCH_TITLE": "Search",
+  "SEARCH_PLACEHOLDER": "Search the items list, e.g. \"Donald Duck\""
+}
